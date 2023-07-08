@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  /* background-image: url(gambar/ujian.jfif); */
+  background-size: cover;
+}
+
+#my-gallery {
+  background-color: #df92548c;
+  background-size: cover;
+}
+
+#maps {
+  background-color: #df92548c;
+}
+
+section {
+  padding-top: 5rem;
+}
